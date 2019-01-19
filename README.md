@@ -4,20 +4,14 @@
 ### Terminal
 
 ```
-g++ main.cpp Game.cpp -o test -lGLEW -lglut -lGL -lGLU
-
+make run 
 ```
 
 
-![output](output.png)
+![wire](wireframe.png)
 
+![fill](fill.png)
 
-
-### NOTE
-
-```
-Above cube is made using Legacy openGL
-```
 
 
 ### Further Reading
