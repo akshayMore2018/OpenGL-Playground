@@ -7,10 +7,12 @@
 make run 
 ```
 
+![fill](fill.png)
 
+glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 ![wire](wireframe.png)
 
-![fill](fill.png)
+
 
 
 
